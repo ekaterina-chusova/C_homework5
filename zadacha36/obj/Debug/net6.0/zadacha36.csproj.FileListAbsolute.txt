@@ -1,0 +1,15 @@
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/bin/Debug/net6.0/zadacha36
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/bin/Debug/net6.0/zadacha36.deps.json
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/bin/Debug/net6.0/zadacha36.runtimeconfig.json
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/bin/Debug/net6.0/zadacha36.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/bin/Debug/net6.0/zadacha36.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.csproj.AssemblyReference.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.AssemblyInfoInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.AssemblyInfo.cs
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.csproj.CoreCompileInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/refint/zadacha36.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/zadacha36.genruntimeconfig.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/CSharp/Homework/homework5/zadacha36/obj/Debug/net6.0/ref/zadacha36.dll
